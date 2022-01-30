@@ -1,0 +1,23 @@
+.text-all-center{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+
+.my-1{
+    margin: 5px 0;
+}
+.my-2{
+    display: flex;
+    justify-content: center;
+    color:rgb(59, 39, 39) ;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+/* .my-2{
+    margin: 26px 0;
+    color: rgb(27, 19, 19);
+align-items: center;
+justify-content: center;
+} */

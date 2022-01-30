@@ -1,0 +1,64 @@
+@media screen and (max-width:1000px){
+    nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 26vh;
+     
+    }
+     .logo{
+         justify-content: center;
+        /* margin: 15vh 10vw; */
+        flex-direction: column;
+        height: 8vh ;
+    }
+    .logo img{
+        height: 10vh;
+        width: 50vw;
+        
+        }
+    .logo input{
+        width: 80vw;
+            height: 8vh;
+        margin: 5px;
+    }
+    .btn{
+        width: 15vh;
+    }
+    /* .container{
+        height: 34vh;
+    } */
+    
+    
+   
+    /* .logo li {
+        flex-direction: column;
+        margin: 1vh;
+    } */
+    /* header{
+        height: 10vh;
+        flex-direction: column; */
+    
+    
+    .slider{
+        height: 50vh;
+        margin: 0 0;
+    }
+    .search{
+        height: 5vh;
+        width: 9vw;}
+    
+.container{
+    height: 50vh;
+}
+}
+/* .footer{     
+    position: absolute;
+    top:100%;
+    bottom: 0%;
+    left: 0;
+    right: 0;
+    height:100px
+     */
+
